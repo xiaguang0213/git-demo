@@ -1,0 +1,18 @@
+git status
+git add 文件名
+git commmit -m 添加描述
+git checkout 文件名
+git rm --cached
+git reset --hard id
+git branch
+git branch 文件名
+git checkout 文件名
+git merge 文件名
+git push remote add (新名字origin) 地址
+git push -u origin master
+git push
+git clone
+git pull
+将不想上传的文件写到这里 添加暂存区时候 这些文件就不会被添加进去
+node-modules
+test.html
